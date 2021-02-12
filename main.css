@@ -5,7 +5,7 @@
     justify-content: center;
     background-color: grey;
     font-family: sans-serif;
-    
+    float: left;
 }
 body {
     display: flex;
@@ -14,9 +14,9 @@ body {
 p.p1 {
     width: 200;
     height: 40;
-    padding: 1px;
+    padding: 1px; */
 }
-p {
+ p {
     border-width: thick;
     border-style: red;
     padding: 1px;
@@ -35,4 +35,20 @@ p {
     font-family: fantasy;
     margin: 5px;
 }
+blockquote {
+    display: block;
+    margin-top: 5em;
+    
+}
+nav {
+    float: right;
+    line-height: 100px;
+}
+nav a {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 4px;
+    font-size: 20px;
+    margin: 0 10px;
+    color: #fff;
 }
