@@ -17,8 +17,8 @@ p.p1 {
 }
 p {
     border-width: thick;
-    border-style: solid;
+    border-style: red;
     padding: 1px;
     margin: 20px;
-    align-items: center;
+    border: solid black;
 }
