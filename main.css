@@ -20,4 +20,5 @@ p {
     border-style: solid;
     padding: 1px;
     margin: 20px;
+    align-items: center;
 }
