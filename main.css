@@ -1,11 +1,41 @@
 * {
+    background-color: grey;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
     box-sizing: border-box;
     margin: auto;
     align-items: center;
     justify-content: center;
     background-color: grey;
     font-family: sans-serif;
-    float: left;
+}
+header {
+    background-color: orange;
+    position: fixed;
 }
 body {
     display: flex;
@@ -51,4 +81,4 @@ nav a {
     font-size: 20px;
     margin: 0 10px;
     color: #fff;
-}
+} */
