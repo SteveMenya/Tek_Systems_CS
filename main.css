@@ -1,10 +1,28 @@
 * {
     background-color: grey;
     font-family: sans-serif;
+    box-sizing: border-box;
 }
-
-
-
+.my_photos img {
+    transition: 3s;
+    padding: 10px;
+    width: 200px;
+}
+#wrapper {
+    width: 1000px; margin: 0 auto;
+}
+.cool {
+    font-family: fantasy;
+    margin: 5px;
+}
+.mainp {
+    border-width: thick;
+    border-style: red;
+    padding: 1px;
+    margin: 20px;
+    border: solid black;
+    text-align: center;
+}
 
 
 
@@ -46,24 +64,11 @@ p.p1 {
     height: 40;
     padding: 1px;
 }
- p {
-    border-width: thick;
-    border-style: red;
-    padding: 1px;
-    margin: 20px;
-    border: solid black;
+
+
 }
-.my_photos {
-    margin: 10px 50px;
-}
-.my_photos img {
-    transition: 3s;
-    padding: 10px;
-    width: 200px;
-}
-.cool {
-    font-family: fantasy;
-    margin: 5px;
+
+
 }
 blockquote {
     display: block;
