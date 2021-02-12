@@ -1,3 +1,23 @@
 * {
     box-sizing: border-box;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+p.p1 {
+    width: 200;
+    height: 40;
+    padding: 1px;
+}
+p {
+    border-width: thick;
+    border-style: solid;
+    padding: 1px;
+    margin: 20px;
 }
