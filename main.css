@@ -1,7 +1,10 @@
 * {
-    background-color: grey;
+    
     font-family: sans-serif;
     box-sizing: border-box;
+}
+body {
+background-color: grey;
 }
 .my_photos img {
     transition: 3s;
@@ -15,16 +18,15 @@
     font-family: fantasy;
     margin: 5px;
 }
-.mainp {
-    border-width: thick;
-    border-style: red;
+.maindiv {
     padding: 1px;
     margin: 20px;
-    border: solid black;
+    border: 2px solid black;
     text-align: center;
 }
-
-
+img {
+    max-width: 300px;
+}
 
 
 
